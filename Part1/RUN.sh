@@ -1,0 +1,1 @@
+gcc Main.c && ./a.out | wc -l
